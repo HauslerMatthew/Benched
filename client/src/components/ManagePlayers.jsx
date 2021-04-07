@@ -50,7 +50,7 @@ const ManagePlayers = (props) => {
                 width="600"
                 height="450"
                 allowFullScreen
-                src="https://www.google.com/maps/embed/v1/place?key=AIzaSyAdf7xCwLPk-eZbXqXqc3LZ3GojttPHu4k
+                src="https://www.google.com/maps/embed/v1/place?key=KEY-REMOVED-FOR-PRIVACY
                     &q=Nelson+Sports+Complex,Rolling+Meadows+IL">
                 {/* look into making this a var the user enters */}
             </iframe>
